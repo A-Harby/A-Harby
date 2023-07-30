@@ -11,7 +11,7 @@
 - 📫 How to reach me **ahmed.saleh.harby@gmail.com**
   
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  [**ahmed.saleh.harby*](https://github.com/A-Harby1)
+  [**ahmed.saleh.harby**](https://github.com/A-Harby1)
 
 ## 📊 Connect with me
 <p align="left">
